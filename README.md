@@ -1,2 +1,2 @@
 # random_python_stuff
-Just random stuff I make
+Random Python projects I have made.
